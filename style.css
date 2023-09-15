@@ -4,4 +4,6 @@ body {
 p {
     text-align: center;
 }
-
+    em strong {
+        color:rgb(215, 186, 241)
+    }
